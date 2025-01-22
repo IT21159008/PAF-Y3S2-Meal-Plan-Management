@@ -1,0 +1,110 @@
+/* MealPlanPage.css */
+.meal-plan-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.meal-plan-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.meal-plan-card {
+  margin: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.meal-plan-card:hover {
+  transform: translateY(-5px);
+}
+
+.meal-plan-card .card-body {
+  padding: 20px;
+}
+
+.meal-plan-card .card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.meal-plan-card .card-text {
+  color: #555;
+}
+
+.add-meal-plan-button {
+  margin-top: 20px;
+}
+
+.modal-content {
+  border-radius: 10px;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-body {
+  padding: 20px;
+}
+
+.modal-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.modal-footer {
+  border-top: none;
+  padding-bottom: 0;
+}
+
+.modal-footer button {
+  margin-right: 10px;
+}
+
+/* Style for Facebook-like buttons */
+.card-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.fb-button {
+  background-color: #f0f2f5;
+  color: #1c1e21;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.fb-button:hover {
+  background-color: #e4e6eb;
+}
+
+.fb-button i {
+  font-size: 16px;
+}
+
+.fb-button {
+  background-color: transparent;
+  border: none;
+  color: #4b4f56;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 10px;
+  padding: 5px 10px;
+  transition: color 0.3s;
+}
+
+.like-button.liked {
+  color: #1778f2; /* Change color when liked */
+}
