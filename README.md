@@ -1,14 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2d9khxo6)
-Please go under edit and edit this file as needed for your project
+# PAF-Y3S2-Meal-Plan-Management
 
-# Team Name - 
-# Project Group - PAF_JUN_WE_104
-### Group Leader - IT21255588 - Chandrasekara C.M.A.P.K. (akhilaprabashana)
-### Member 2 - IT21057892 - Madhuwantha W.A.S.P  (piyumal2105)
-### Member 3 - IT21193804 - Weerasekra D.D.R.R. (DulanWeerasekara)
-### Member 4 - IT21371790 - Ekanyanaka E.M.C.S. 
+## Description
+The **PAF-Y3S2-Meal-Plan-Management** project is a comprehensive solution for managing meal plans. It allows users to create, edit, and delete meal plans while integrating various features to ensure a user-friendly and efficient experience. This project was developed for the Programming Application Frameworks (PAF) module in Year 3 Semester 2.
 
-#### Brief Description of your Solution - 
+---
 
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
+## Features
+- **Meal Plan Creation**: Add customized meal plans based on user preferences.
+- **Update and Manage**: Edit and manage existing meal plans with ease.
+- **Search Functionality**: Quickly locate meal plans by name or category.
+- **Responsive Design**: Optimized for various devices.
+- **CRUD Operations**: Demonstrates Create, Read, Update, and Delete functionalities.
+- **Database Integration**: Uses a backend database to store meal plan information.
 
+---
